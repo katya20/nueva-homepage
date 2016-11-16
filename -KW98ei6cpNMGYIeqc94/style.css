@@ -26,3 +26,8 @@ body {
   border: 7px solid white;
   margin: auto;
 }
+
+.diamond {
+  color: white;
+  opacity: 0.6
+}
