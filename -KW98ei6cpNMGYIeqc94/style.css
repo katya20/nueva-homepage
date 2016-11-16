@@ -15,11 +15,14 @@ body {
 .wrapper {
   display:flex;
   align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.title-container{
   background:rgba(255,255,255,0.3);
-  width: 320px;
+  width: 350px;
   text-align: center;
   border: 7px solid white;
   margin: auto;
-  justify-content: center;
-  height: 100%;
 }
