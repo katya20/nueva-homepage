@@ -1,3 +1,8 @@
 body {
   background-image: URL("http://yldist.com/ms/wp-content/uploads/sites/1/nggallery/website-backgrounds/bg-1.jpg")
 }
+
+#title {
+  color: white;
+  
+}
