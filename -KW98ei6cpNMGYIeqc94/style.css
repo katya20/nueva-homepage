@@ -1,5 +1,6 @@
 body {
   background-image: URL("http://yldist.com/ms/wp-content/uploads/sites/1/nggallery/website-backgrounds/bg-1.jpg")
+    height: 100%;
 }
 
 #title {
@@ -16,5 +17,5 @@ body {
   border: 7px solid white;
   margin: auto;
   justify-content: center;
-  
+  height: 100%;
 }
