@@ -11,8 +11,8 @@ body {
   background:rgba(255,255,255,0.3);
   width: 320px;
   text-align: center;
-  border: 5px solid white;
+  border: 7px solid white;
   margin: auto;
-  padding: 50px;
+  justify-content: center;
   
 }
